@@ -15,6 +15,7 @@ For **macOS Tahoe** users, please use this compatible pre-release fork:
   https://github.com/AdamWawrzynkowskiGF/Mousecape-TahoeSupport/releases/tag/PreRelease-v01
 
 The original cursor artwork was created by **Coldyhands** and adapted here for macOS.
+https://ko-fi.com/s/567b4d38b3
 
 ---
 
